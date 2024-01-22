@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Moon</h1>
+    <p>description<p>
     <img src="img/moon.png" alt="moon">
 </body>
 </html>

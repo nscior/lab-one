@@ -1,3 +1,4 @@
 _site/
+_includes/
 **/node_modules/**
 package-lock.json

@@ -1,3 +1,33 @@
 body {
-    background-color: grey;
+
+    padding-top: 50px;
+    padding-bottom:50px;
+    background-color: #373737;
+    color: white;
+    padding-left: 10%;
+}
+
+.text {
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+.images {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20%;
+}
+
+.earth {
+    width: 400px;
+}
+
+.moon {
+    width: 200px;
+}
+
+.moon1 {
+    width: 200px;
 }
